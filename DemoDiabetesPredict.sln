@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2000
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Model", "Model\Model.csproj", "{2A6A0FA1-9B9C-4C03-8CC8-F7EC5510E9BD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Training", "Training\Training.csproj", "{49B2B51E-5485-4CC4-90DB-FC7BD0919647}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Prediction", "Prediction\Prediction.csproj", "{EE1259DC-EB74-4379-A2E8-82DA4AB1EBB6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2A6A0FA1-9B9C-4C03-8CC8-F7EC5510E9BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A6A0FA1-9B9C-4C03-8CC8-F7EC5510E9BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A6A0FA1-9B9C-4C03-8CC8-F7EC5510E9BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A6A0FA1-9B9C-4C03-8CC8-F7EC5510E9BD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{49B2B51E-5485-4CC4-90DB-FC7BD0919647}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{49B2B51E-5485-4CC4-90DB-FC7BD0919647}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{49B2B51E-5485-4CC4-90DB-FC7BD0919647}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{49B2B51E-5485-4CC4-90DB-FC7BD0919647}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EE1259DC-EB74-4379-A2E8-82DA4AB1EBB6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE1259DC-EB74-4379-A2E8-82DA4AB1EBB6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EE1259DC-EB74-4379-A2E8-82DA4AB1EBB6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EE1259DC-EB74-4379-A2E8-82DA4AB1EBB6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {41FCB35E-8FE8-4B0B-B22C-BBF20F9F38F9}
+	EndGlobalSection
+EndGlobal
